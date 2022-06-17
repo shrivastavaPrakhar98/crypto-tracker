@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Crypto-tracker/static/css/main.b128fd52.css",
-    "main.js": "/Crypto-tracker/static/js/main.44531bb2.js",
-    "static/js/787.32d91862.chunk.js": "/Crypto-tracker/static/js/787.32d91862.chunk.js",
-    "static/media/logo.svg": "/Crypto-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Crypto-tracker/index.html",
-    "main.b128fd52.css.map": "/Crypto-tracker/static/css/main.b128fd52.css.map",
-    "main.44531bb2.js.map": "/Crypto-tracker/static/js/main.44531bb2.js.map",
-    "787.32d91862.chunk.js.map": "/Crypto-tracker/static/js/787.32d91862.chunk.js.map"
+    "main.css": "/crypto-tracker/static/css/main.b128fd52.css",
+    "main.js": "/crypto-tracker/static/js/main.fddbe938.js",
+    "static/js/787.32d91862.chunk.js": "/crypto-tracker/static/js/787.32d91862.chunk.js",
+    "static/media/logo.svg": "/crypto-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crypto-tracker/index.html",
+    "main.b128fd52.css.map": "/crypto-tracker/static/css/main.b128fd52.css.map",
+    "main.fddbe938.js.map": "/crypto-tracker/static/js/main.fddbe938.js.map",
+    "787.32d91862.chunk.js.map": "/crypto-tracker/static/js/787.32d91862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b128fd52.css",
-    "static/js/main.44531bb2.js"
+    "static/js/main.fddbe938.js"
   ]
 }
